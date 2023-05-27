@@ -5,8 +5,8 @@ bin-release/
 [Bb]in/
 
 # Other files and folders
-./remote-key
-./remote-key.pub
+/remote-key
+/remote-key.pub
 .settings/
 
 # Executables
